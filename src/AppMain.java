@@ -4,7 +4,7 @@ public class AppMain {
     }
 
     private static void imprimirHola() {
-        System.out.println("¡Holaaaa, desde GitHub!");
+        System.out.println("¡Holaa, voy a forzar un conflicto!");
     }
 
     
