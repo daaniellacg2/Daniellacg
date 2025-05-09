@@ -4,7 +4,9 @@ public class AppMain {
     }
 
     private static void imprimirHola() {
+
         System.out.println("¡Estoy provocando un conflicto forzado!");
+
     }
 
     
