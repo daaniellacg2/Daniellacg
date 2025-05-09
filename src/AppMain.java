@@ -5,7 +5,7 @@ public class AppMain {
 
     private static void imprimirHola() {
 
-        System.out.println("¡Estoy provocando un conflicto forzado!");
+        System.out.println("¡Estoy dentro de la nueva rama!");
 
     }
 
